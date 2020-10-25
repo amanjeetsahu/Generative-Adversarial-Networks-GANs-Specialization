@@ -1,5 +1,5 @@
 # Generative-Adversarial-Networks-GANs-Specialization
----
+
 ## About GANs
 
 Generative Adversarial Networks (GANs) are powerful machine learning models capable of generating realistic image, video, and voice outputs. 
